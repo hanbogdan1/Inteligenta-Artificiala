@@ -158,7 +158,6 @@ void cerinta_5() {
 	
 }
 
-
 int main()
 {
 	/*cerinta_1();
